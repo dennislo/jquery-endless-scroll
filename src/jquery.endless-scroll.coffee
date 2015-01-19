@@ -143,6 +143,7 @@ class EndlessScroll
       @scrollDirection = 'next'
     else
       @scrollDirection = 'prev'
+      @didScroll = false
 
     @lastScrollTop = currentScrollTop
 
