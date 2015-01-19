@@ -1,3 +1,7 @@
+NOTE: This is a fork of [https://github.com/fredwu/jquery-endless-scroll](https://github.com/fredwu/jquery-endless-scroll) which simply disables upward scrolling based on
+[https://github.com/fredwu/jquery-endless-scroll/issues/30#issuecomment-11996926](https://github.com/fredwu/jquery-endless-scroll/issues/30#issuecomment-11996926)
+
+
 # Endless Scroll [![endorse](http://api.coderwall.com/fredwu/endorsecount.png)](http://coderwall.com/fredwu)
 
 #### If you encounter problems with scrolling up, please use the old [1.6.0 release](https://github.com/fredwu/jquery-endless-scroll/zipball/1.6.0). The code base is currently being rewritten on the [2.0-rewrite branch](https://github.com/fredwu/jquery-endless-scroll/tree/2.0-rewrite).

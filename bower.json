@@ -1,0 +1,27 @@
+{
+  "name": "jquery-endless-scroll-dlo",
+  "version": "1.0.0",
+  "authors": [
+    "Dennis Lo <lo.dennis@gmail.com>"
+  ],
+  "description": "Fork of https://github.com/fredwu/jquery-endless-scroll",
+  "main": "js/jquery.endless-scroll.js",
+  "keywords": [
+    "endless",
+    "scroll",
+    "infinite",
+    "pagination",
+    "jquery plugin",
+    "downward scrolling enabled",
+    "scrolling",
+    "upward scrolling disabled"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
