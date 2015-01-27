@@ -2,9 +2,10 @@
 /*
   Endless Scroll plugin for jQuery
 
-  v1.8.0
+  v1.9.0
 
-  Copyright (c) 2008-2012 Fred Wu
+  Copyright (c) 2008-2012 Fred Wu,
+  Dennis Lo (forked at https://github.com/dennislo/jquery-endless-scroll)
 
   Dual licensed under the MIT and GPL licenses:
     http://www.opensource.org/licenses/mit-license.php
